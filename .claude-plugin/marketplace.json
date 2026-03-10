@@ -1,0 +1,17 @@
+{
+  "name": "egorfedorov-plugins",
+  "owner": {
+    "name": "Egor Fedorov"
+  },
+  "plugins": [
+    {
+      "name": "claude-context-optimizer",
+      "description": "Intelligent context tracking, token ROI analysis, and auto-optimization for Claude Code sessions.",
+      "version": "2.0.0",
+      "source": {
+        "source": "github",
+        "repo": "egorfedorov/claude-context-optimizer"
+      }
+    }
+  ]
+}
