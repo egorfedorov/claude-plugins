@@ -1,17 +1,12 @@
 {
   "name": "egorfedorov-plugins",
-  "owner": {
-    "name": "Egor Fedorov"
-  },
+  "owner": { "name": "Egor Fedorov" },
   "plugins": [
     {
       "name": "claude-context-optimizer",
-      "description": "Opus 4.8-aware context optimization: one-screen Context Control Center, per-task token/$ tracking, smart context packs, prompt coach, ContextShield, accurate costs.",
-      "version": "4.0.0",
-      "source": {
-        "source": "github",
-        "repo": "egorfedorov/claude-context-optimizer"
-      }
+      "description": "Opus 4.8-aware context optimization: silent-by-default hooks, honest NET token savings, big-file map-then-load, Context Control Center, per-task tracking.",
+      "version": "4.1.0",
+      "source": { "source": "github", "repo": "egorfedorov/claude-context-optimizer" }
     }
   ]
 }
