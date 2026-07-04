@@ -7,6 +7,12 @@
       "description": "Opus 4.8-aware context optimization: cache-aware real costs & cache-break detection, session baseline audit (/cco-overhead), auto .contextignore, self-calibrating estimates, delegation advisor, ru/en prompt coach",
       "version": "4.3.0",
       "source": { "source": "github", "repo": "egorfedorov/claude-context-optimizer" }
+    },
+    {
+      "name": "cco-arcade",
+      "description": "The waiting game for Claude Code: live session dashboard + idle 'Token City' fed by your real agent activity (Godzilla wrecks it if you stop coding), plus desktop/phone pings when Claude finishes or needs you",
+      "version": "0.1.1",
+      "source": { "source": "github", "repo": "egorfedorov/cco-arcade" }
     }
   ]
 }
