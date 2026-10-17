@@ -6,6 +6,9 @@
   "metadata": {
     "description": "Claude Code plugins by Egor Fedorov: context-optimizer (cut wasted context, see what each session really costs) and cco-arcade."
   },
+  "renames": {
+    "claude-context-optimizer": "context-optimizer"
+  },
   "plugins": [
     {
       "name": "context-optimizer",
